@@ -12,11 +12,17 @@ Estou estudando no momento Segurança da Informação, sou aluno do [TDI](https:
 <h1></h1>
 
 ## 🚀 Social Media
-[![Linkedin Badge](https://img.shields.io/badge/-jomar--ferreira--amorim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jomar-ferreira-amorim/)](https://www.linkedin.com/in/jomar-ferreira-amorim/) [![Instagram Badge](https://img.shields.io/badge/-joeywheelersam-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joeywheelersam/?hl=pt-br)](https://instagram.com/joeywheelersam) ![Twitter Follow](https://img.shields.io/twitter/follow/joeywheelersam?label=@joeywheelersam&style=social) [![Gmail Badge](https://img.shields.io/badge/-jomar.ferreira.amorim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jomar.ferreira.amorim@gmail.com)](mailto:jomar.ferreira.amorim@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jomar.ferreira.amorim@gmail.com)](mailto:jomar.ferreira.amorim@gmail.com) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joeywheelersam)](https://github.com/joeywheelersam) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jomar-ferreira-amorim/)](https://www.linkedin.com/in/jomar-ferreira-amorim/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/joeywheelersam)](https://www.facebook.com/joeywheelersam) [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joeywheelersam/?hl=pt-br)](https://instagram.com/joeywheelersam) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/joeywheelersam)](https://www.twitter.com/joeywheelersam) 
 
 ## 💻 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## ⚡ GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=joeywheelersam&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)<p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeywheelersam&hide=TeX&layout=compact)
+<tr>
+    <td>
+        <a href="https://github-readme-stats.vercel.app/api?username=joeywheelersam&theme=dracula&show_icons=true"><img align="left" src="https://github-readme-stats.vercel.app/api?username=joeywheelersam&show_icons=true&theme=dracula"/></a>
+    </td>
+    <td>
+        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=joeywheelersam&theme=dracula&hide=html"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeywheelersam&layout=compact&theme=dracula&hide=html"/></a>
+    </td>
+</tr>
