@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=joeywheelersam" alt="joeywheelersam" /></p>
 
-<h1 align = "justify"> Ola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Jomar Ferreira (joeywheeler_sam)</h1>
+<h1 align = "justify"> Ola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Jomar Ferreira (joeywheelersam)</h1>
 
 <p align = "justify"> Me chamo Jomar Ferreira, sou um estudante de tecnologia no modo geral. Criei esse repositório para armazenar os projetos e estudos que faço ao longo da vida. Como todo estudante amante de café, sou suporte técnico e estou aprendendo Python e Shell Code. Ultimamente estou estudando sobre Segurança de Redes, Pentest e programação em Python.</p>
 
