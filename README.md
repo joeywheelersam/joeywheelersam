@@ -1,17 +1,10 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=joeywheelersam" alt="joeywheelersam" /></p>
-
-<h1 align = "center"> Ola, eu sou Jomar Ferreira <br> (joeywheelersam)</h1>
-
-<!--
-Verificar depois para deixar a mãozinha dando tchau, comando logo abaixo:
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25%>
--->
-
+<p align = "center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="9%"> Ola, eu sou Jomar Ferreira <br> (joeywheelersam)</p>
 
 <p align = "justify"> Me chamo Jomar Ferreira, sou um estudante de tecnologia no modo geral. Criei esse repositório para armazenar os projetos e estudos que faço ao longo da vida. Como todo estudante e trabalhador sou amante de café, trabalho como suporte técnico e estou estudando sobre Segurança da Informação, Pentest e linguagem de programação em Python pela <a href="https://tecnicasdeinvasao.com/">TDI</a></p>
 
 <p align = "justify">Se alguém precisar de alguma ajuda só entrar em contato que até onde souber estou disposto a ajudar, você pode me encontrar aqui no GitHub para trocar uma ideia!</p>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=joeywheelersam" alt="joeywheelersam" /></p>
 <h1></h1>
 
 ## 🚀 Social Media
