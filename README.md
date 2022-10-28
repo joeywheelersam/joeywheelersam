@@ -18,5 +18,5 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=joeywheelersam&theme=dracula&hide=html"><img width="494px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeywheelersam&layout=compact&theme=dracula&hide=html"/></a><br>
 
 ## ⚡ Other Stats
-<a img src="https://tryhackme-badges.s3.amazonaws.com/joeywheeler.png" alt="TryHackMe"></a><br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/joeywheeler.png" alt="TryHackMe"><br>
 <a href="https://pt.stackoverflow.com/users/310845/jomar-ferreira"><img src="https://pt.stackoverflow.com/users/flair/310845.png?theme=dark" width="208" height="58" alt="Perfil de Jomar Ferreira no Stack Overflow em Portugu&#234;s" title="Perfil de Jomar Ferreira no Stack Overflow em Portugu&#234;s"></a><br>
