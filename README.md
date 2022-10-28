@@ -15,7 +15,9 @@
 ## ⚡ GitHub Stats
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=joeywheelersam&theme=dracula&hide=html"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joeywheelersam&theme=dracula&hide=html"/></a><br>
 <a href="https://github-readme-stats.vercel.app/api?username=joeywheelersam&theme=dracula&show_icons=true"><img align="left" src="https://github-readme-stats.vercel.app/api?username=joeywheelersam&show_icons=true&theme=dracula"/></a><br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=joeywheelersam&theme=dracula&hide=html"><img width="494px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeywheelersam&layout=compact&theme=dracula&hide=html"/></a><br>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=joeywheelersam&theme=dracula&hide=html"><img width="494px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeywheelersam&layout=compact&theme=dracula&hide=html"/></a>
+</br>
+<br>
 
 ## ⚡ Other Stats
 <img src="https://tryhackme-badges.s3.amazonaws.com/joeywheeler.png" alt="TryHackMe">
